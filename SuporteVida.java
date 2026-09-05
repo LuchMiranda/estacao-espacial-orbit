@@ -9,10 +9,11 @@ public static void verificarsuportedevida() {
     System.out.println("Temperatura interna do módulo: 25°");
     System.out.println("Nível de energia/bateria dos sistemas: Totalmente carregados.");
 
-}
+ }
 
 public static void main(String[] args){
     verificarsuportedevida();
 
 
-} 
+ } 
+}
