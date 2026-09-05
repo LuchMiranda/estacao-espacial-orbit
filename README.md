@@ -7,7 +7,6 @@ Sistema de monitoramento de suporte de vida para o módulo habitacional da miss�
 ## 📌 Sumário
 
 - [Sobre a missão](#-sobre-a-missão)
-- [Camadas do ambiente](#-camadas-do-ambiente)
 - [Tripulação (desenvolvedores)](#-tripulação-desenvolvedores)
 - [Como executar](#-como-executar)
 
@@ -24,8 +23,7 @@ A missão responsável pela manutenção do módulo habitacional em órbita, gar
 | Nome | Função |
 |------|--------|
 | Lucas Miranda | Comandante da Missão / Desenvolvedor |
-| _[adicionar tripulante]_ | _[função]_ |
-| _[adicionar tripulante]_ | _[função]_ |
+
 
 > Substitua os campos acima pelos nomes reais da equipe.
 
